@@ -1,0 +1,40 @@
+# Web Framework
+django==5.0.4
+django-environ==0.11.2
+
+# LangChain & LangGraph — all must match each other
+langchain==0.3.25
+langchain-core==0.3.58
+langchain-community==0.3.23
+langgraph==0.2.28
+
+# Gemini (replaces OpenAI)
+langchain-google-genai==2.1.4
+google-generativeai==0.8.3
+
+# Search
+tavily-python==0.5.0
+
+# NER
+spacy==3.7.6
+
+# Web Scraping
+beautifulsoup4==4.12.3
+requests==2.32.3
+trafilatura==1.12.1
+
+# Browser Automation
+playwright==1.47.0
+
+# Vector Store
+chromadb==0.5.15
+
+# PDF Generation
+markdown2==2.5.0
+
+# Image handling
+Pillow==10.4.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.9.2
