@@ -24,3 +24,5 @@ A Django-based multi-agent research pipeline built with LangGraph and Groq (Llam
 4. Install: `pip install -r requirements.txt`
 5. Copy `.env.example` to `.env` and add your API keys
 6. Run: `python manage.py migrate && python manage.py runserver`
+## Demo Video
+[Watch Demo on YouTube](https://youtu.be/hSNs9K0WI3E)
